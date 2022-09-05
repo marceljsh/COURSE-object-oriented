@@ -1,0 +1,9 @@
+mengcopy task sebelumnya dan membuat class Lecturer
+mengembangkan program
+menyelesaikan bug
+merubah posisi declaration
+merubah struktur
+kembali ke submit awal
+melengkapi code yang kurang
+melengkapi karakter yang kurang
+mengurangi code yang tidak tepat
