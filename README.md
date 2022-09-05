@@ -17,6 +17,6 @@ _Pemrograman Berbasis Objek_ (`PBO`) is a course of Information Systems students
 11. [F01 | Dormy](https://github.com/marceljsh/COURSE-object-oriented/tree/main/2122-ge-f01-dormy-marceljsh)
 
 ## `License📜`
-Copyright © 2022, Team 2. Released under [Information Systems](https://www.del.ac.id/?page_id=3534), FITE, [Del Institute of Technology](https://www.del.ac.id/)
+Copyright © 2022, Marcel Joshua. Released under [Information Systems](https://www.del.ac.id/?page_id=3534), FITE, [Del Institute of Technology](https://www.del.ac.id/)
 ***
 _This property is intended as a project in the Object-oriented Programming course_
