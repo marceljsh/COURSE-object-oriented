@@ -1,0 +1,13 @@
+Menambah fitur "student-transcript"
+Menambah perintah sort linkedlist untuk transcript namun masih ada problem**
+
+problem**:
+- linkedlist untuk transcript sudah disort berdasarkan YEAR
+  namun yang ditampilkan masih enrollment yang terakhir kali di-insert
+
+- pada "course-history" saya printout enrollment yang  memiliki
+  CODE, YEAR, dan SEMESTER yang serupa dengan courseOpening.
+  seharusnya ada sepasang enrollment yang di-printout, namun
+  pada output ternyata sepasang enrollment ini diprint sebanyak 3 kali
+
+Berhasil mengatasi problem
